@@ -1,0 +1,11 @@
+.header {
+    grid-area: h;
+    background-color: green;
+  
+    height: 50px;
+    grid-template-rows: 5 px;
+  }
+  
+  .header img{
+    width: 50 px;
+  }
